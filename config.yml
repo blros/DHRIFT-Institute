@@ -1,0 +1,49 @@
+cloneWorkshops: false
+contact:
+- email: brianrosenblum@ku.edu
+  name: Brian Rosenblum
+dateStart: ''
+description: ''
+endDate: ''
+event: ''
+format: ''
+herodescription: ''
+institution: ''
+location: ''
+organizers:
+- email: brianrosenblum@ku.edu
+  name: Brian Rosenblum
+sessions:
+- date: '2026-06-01'
+  description: 'Focus Question: What do academics need to know about non-profits,
+    and vice-versa, in order to establish good collaborations?
+
+
+    This panel will explore differences between the structure of academic organizations
+    and nonprofits, as well as key differences in the work culture, outreach methods,
+    and operational philosophies of these two sectors, with the goal of preparing
+    institute participants to be able to form strong partnerships between the two.
+    Panelists will speak about different kinds of nonprofit organizations that might
+    be especially well-suited to collaboration on a public digital humanities project
+    and share insights into what non-profit professionals can sometimes find challenging
+    about partnering with the academic sector.'
+  endTime: 09:00
+  helpers:
+  - name: Brian Rosenblum
+  instructors:
+  - name:
+      email: brianrosenblum@gmail.com
+      name: Sarah Bishop
+  location: ''
+  time: 08:00
+  title: Academic vs Non-Academic Center
+  workshop: ''
+sponsors:
+- link: https://neh.gov
+  name: National Endowment for the Humanities
+  notes: The National Endowment for the Humanities (NEH) is an independent federal
+    agency created in 1965. It is one of the largest funders of humanities programs
+    in the United States.
+venue: ''
+workshopsrepo: workshops
+workshopsuser: dhri-curriculum
